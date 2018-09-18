@@ -30,6 +30,8 @@ namespace zooOOP
             minAndenHest.Run();
             
             farligSlange.SlangeSig();
+
+
         }
     }
 }
